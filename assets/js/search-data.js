@@ -402,38 +402,38 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-project-florence",
+          title: 'Project Florence',
+          description: "ARES&#39; most ambitious and successful rocket",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-project-hermes",
+          title: 'Project Hermes',
+          description: "A robust and scalable rocket flight computer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-custom-gnss-reciever",
+          title: 'Custom GNSS reciever',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-hyrbid-engine-daq-cabinet",
+          title: 'Hyrbid engine DAQ cabinet',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-wifi-nixie-tube-clock",
+          title: 'WiFi Nixie Tube Clock',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-eurorack-modular-synthesiser",
+          title: 'Eurorack Modular Synthesiser',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-fender-champ-amp-replica",
+          title: 'Fender Champ Amp replica',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
