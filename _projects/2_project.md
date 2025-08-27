@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Project Hermes
+description: A robust and scalable rocket flight computer
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Project Florence
+description: ARES' most ambitious and successful rocket
 img: assets/img/12.jpg
 importance: 1
 category: work
