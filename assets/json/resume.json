@@ -31,7 +31,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2022-02-28",
       "endDate": "2025-12-05",
-      "courses": ["Concurrent Diploma in Languages - French", "Equivalent minor in Physics", "Weighted average mark of 87.29/100, equivalent GPA of 3.97", "2023 Dean's Honours List recipient"]
+      "courses": ["Weighted average mark of 87.29/100, equivalent GPA of 3.97", "2023 Dean's Honours List recipient", "Concurrent Diploma in Languages - French", "Equivalent minor in Physics"]
     }    
   ],
 
@@ -101,8 +101,11 @@
       "icon": "fa-solid fa-microchip",
       "keywords": [
         "Use of Altium Designer to create aesthetic and readable schematics, as well as designing and manufacturing robust multi-layer PCBs (approx. 7 years of experience, also have experience in KiCAD and EagleCAD).",
+        " ",
         "Use of electronics knowledge to design analogue, digital, RF, and embedded solutions that meet requirements and constraints.",
+        " ",
         "SMT PCB assembly through use of reflow ovens, hand soldering of small packages.",
+        " ",
         "Troubleshooting problems through use of test equipment and electronics knowledge to find faults in circuits."
       ]
     },
@@ -112,7 +115,9 @@
       "icon": "fa-solid fa-code",
       "keywords": [
         "Programming microcontrollers in C/C++ for embedded applications, both at register level and through hardware abstraction layers.",
+        " ",
         "Writing drivers for ICs and sensors, working with Kalman filters, and using a range of high-speed communication protocols (approx. 4 years of experience)",
+        " ",
         "FPGA programming in Verilog, using Intel’s Quartus software package."
       ]
     },
@@ -122,8 +127,11 @@
       "icon": "fa-solid fa-chart-gantt",
       "keywords": [
         "V-model based systems engineering frameworks, aerospace design review processes",
+        " ",
         "Requirements and V&V management for large, interdisciplinary projects",
+        " ",
         "Timeline and task management in Atlassian Jira",
+        " ",
         "Interface control documentation"
       ]
     },
@@ -133,6 +141,7 @@
       "icon": "fa-solid fa-atom",
       "keywords": [
         "Undergraduate-level knowledge of classical electrodynamics, quantum physics, and optics/lasers",
+        " ",
         "Profficient with application of content from Griffith's elecrodynamics and quantum textbooks"
       ]
     }
