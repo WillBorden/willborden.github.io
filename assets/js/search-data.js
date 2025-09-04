@@ -402,17 +402,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-wifi-nixie-tube-clock",
-          title: 'WiFi Nixie Tube Clock',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-eurorack-modular-synthesiser",
-          title: 'Eurorack Modular Synthesiser',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-fender-champ-amp-replica",
+          section: "News",},{id: "projects-fender-champ-amp-replica",
           title: 'Fender Champ Amp replica',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -447,6 +437,16 @@ ninja.data = [{
           description: "A robust and scalable rocket flight computer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hermes/";
+            },},{id: "projects-wifi-nixie-tube-clock",
+          title: 'WiFi Nixie Tube Clock',
+          description: "A WiFi-controlled clock using Soviet-era tech",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nixie_clock/";
+            },},{id: "projects-eurorack-modular-synthesiser",
+          title: 'Eurorack Modular Synthesiser',
+          description: "Modular synthesiser with a DIY VCO",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/synthesiser/";
             },},{
         id: 'social-email',
         title: 'email',
