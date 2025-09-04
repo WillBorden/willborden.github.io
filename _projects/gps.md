@@ -2,7 +2,7 @@
 layout: page
 title: GNSS reciever
 description: Custom scratch-built GPS receiver
-img: assets/img/GPS FRONT END.png
+img: assets/img/gps_wide.png
 importance: 3
 category: Rocketry & Space
 ---

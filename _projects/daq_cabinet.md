@@ -2,7 +2,7 @@
 layout: page
 title: Hyrbid engine DAQ cabinet
 description: Data acquisition and control for a hybrid rocket engine
-img: assets/img/hermes_front.jpg
+img: assets/img/daq_car_park.jpg
 importance: 4
 category: Rocketry & Space
 ---
@@ -19,7 +19,7 @@ This is routed to a ground station which displays telemetry and allows manual co
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DAQ cabinet pretty photo (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_car_park.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,10 +27,10 @@ This is routed to a ground station which displays telemetry and allows manual co
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DAQ cabinet in combustion lab (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_combustion.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Me doing wiring (1).jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_wiring.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
