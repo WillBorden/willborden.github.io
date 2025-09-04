@@ -5,7 +5,6 @@ description: ARES' most ambitious and successful rocket
 img: assets/img/flo_desert.jpg
 importance: 1
 category: Rocketry & Space
-related_publications: true
 ---
 
 Project Florence is the University of Melbourne’s most successful entry into the International Rocket Engineering Competitions (formerly the Spaceport America Cup) to date. Its outstanding performance in the 2024 competition placed our team 4th out of 152 international institutions in the overall ranking, and 2nd in our category. As chief engineer, I had direct oversight of the development of this rocket, from early concept design to final manufacturing and testing. I was responsible for facilitating

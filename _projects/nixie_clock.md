@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WiFi Nixie Tube Clock
-description: a project with a background image
+description: A WiFi-controlled clock using Soviet-era tech
 img: assets/img/nixie_final.jpg
 importance: 1
 category: Misc

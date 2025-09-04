@@ -5,7 +5,6 @@ description: A robust and scalable rocket flight computer
 img: assets/img/hermes_front_wide.jpg
 importance: 2
 category: Rocketry & Space
-giscus_comments: true
 ---
 
 Hermes is a fully featured flight computer for the control of high-power sounding rockets. It is a comprehensive, futureproofed, turnkey solution that aims to address all potential needs of any large rockets constructed by university teams or
