@@ -402,22 +402,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-florence",
-          title: 'Project Florence',
-          description: "ARES&#39; most ambitious and successful rocket",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-hermes",
-          title: 'Project Hermes',
-          description: "A robust and scalable rocket flight computer",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-custom-gnss-reciever",
-          title: 'Custom GNSS reciever',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-hyrbid-engine-daq-cabinet",
+          section: "News",},{id: "projects-hyrbid-engine-daq-cabinet",
           title: 'Hyrbid engine DAQ cabinet',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -447,6 +432,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-project-florence",
+          title: 'Project Florence',
+          description: "ARES&#39; most ambitious and successful rocket",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/florence/";
+            },},{id: "projects-gnss-reciever",
+          title: 'GNSS reciever',
+          description: "Custom scratch-built GPS receiver",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gps/";
+            },},{id: "projects-project-hermes",
+          title: 'Project Hermes',
+          description: "A robust and scalable rocket flight computer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hermes/";
             },},{
         id: 'social-email',
         title: 'email',
