@@ -402,12 +402,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-hyrbid-engine-daq-cabinet",
-          title: 'Hyrbid engine DAQ cabinet',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-wifi-nixie-tube-clock",
+          section: "News",},{id: "projects-wifi-nixie-tube-clock",
           title: 'WiFi Nixie Tube Clock',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -432,6 +427,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-hyrbid-engine-daq-cabinet",
+          title: 'Hyrbid engine DAQ cabinet',
+          description: "Data acquisition and control for a hybrid rocket engine",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/daq_cabinet/";
             },},{id: "projects-project-florence",
           title: 'Project Florence',
           description: "ARES&#39; most ambitious and successful rocket",
