@@ -2,7 +2,7 @@
 layout: page
 title: Project Hermes
 description: A robust and scalable rocket flight computer
-img: assets/img/hermes_front.jpg
+img: assets/img/hermes_front_wide.jpg
 importance: 2
 category: Rocketry & Space
 giscus_comments: true
