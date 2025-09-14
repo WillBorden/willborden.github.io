@@ -45,7 +45,7 @@ I wrote all the firmware from scratch, including the peripheral drivers and the 
 
 Images of Hermes on rockets.
 
-Since its creation, Hermes has flown successfully on every major rocket ARES has built. It is the team's workhorse for data collection and telemetry, and is responsible for controlling air brakes systems and interfacing with ARES' IOT infrastructure. I'm very proud of it, and am glad to have been able to create such a useful and reliable tool for ARES endeavours. 
+Since its creation, Hermes has flown successfully on every major rocket ARES has built. It is the team's workhorse for data collection and telemetry, and is responsible for controlling air brakes systems and interfacing with ARES' IOT infrastructure. I learned a lot about embedded systems design and programming in particular, which I have since been able to apply to many additional projects. I'm very proud of Hermes, and am glad to have been able to create such a useful and reliable tool for ARES endeavours. 
 
 
 

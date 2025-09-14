@@ -9,8 +9,7 @@ category: Rocketry & Space
 
 This DAQ cabinet is designed to control and characterise hybrid rocket engines built by the University of Melbourne’s
 rocketry team. It will serve as the primary interface point between the team’s ground station equipment and the rocket
-engines. I worked on this project alongside other team members to create a robust and functional system, using DIN
-rail to ensure compatibility with standard industrial components.
+engines. I worked on this project alongside other team members to create a robust and functional system, using industry-standard instrumentation and control equipment.
 
 The system is based around two LabJack DAQ units capable of reading from up to 7 thermocouples, 12 pressure trans-
 ducers, and 4 load cells. The system can additionally control 8 valves, which are used to actuate the fluids system. The
@@ -36,3 +35,7 @@ This is routed to a ground station which displays telemetry and allows manual co
 <div class="caption">
     Me finalising the wiring (left), and the cabinet being used for valve characterisation (right)
 </div>
+
+This project was one of my first times working with industrial control cabinets. It was a joy to see how easily interconnectable everything is, its a far cry from the integration issues of large PCB designs. It was nevertheless a challenging project, mainly due to the importance of having robust, reliable control of rocket engines. Designing the system required complex failure mode analysis to determine exactly what the behaviour of the system should be in every nominal and off-nominal case. The cabinet implements many safety features and interrupts to ensure no personnel are in danger during operations. 
+
+The cabinet is currently being used to test ARES' sub-scale hybrid rocket engine, and will be re-used for testing of our upcoming full-scale engine. This full-scale engine will be flown on ARES' next competition rocket, competing in the 2027 International Rocket Engineering Competition. 
