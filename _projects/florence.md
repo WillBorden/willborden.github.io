@@ -54,11 +54,31 @@ A reliable recovery system is the cornerstone of a successful rocket flight, and
 
 Along with a desire for robustness came a desire for competitiveness. Our competition allocates the largest amount of points to how accurately teams can reach a target apogee. Previously, ARES had been running simulations to determine a predicted apogee, and ballasting the rocket to get it to reach the correct height. For Florence, we decided that we wanted to take the next step and start actively controlling our rocket's apogee during flight. We accomplished this through use of an air brakes sytem, which consists of extendable control surfaces, increasing and decreasing the rocket's overall drag dynamically during ascent. The control for this system ran on one of my flight computers, Hermes. We used model predictive control to simulate all possible rocket trajectories, and used this to create lightweight lookup tables that the air brakes system could query in real time to dynamically update the extention of the air brake leaves. 
 
-Images of air brakes
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/air_brakes_adi.jpg" title="Air brakes being installed" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/air_brakes.jpg" title="Air brakes during testing" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Air brakes being integrated into the rocket (left) and the extended mechanism during testing (right)
+</div>
 
 To verify system functionality and validate our simulations and CFD, Florence was test launched twice in Australia. Due to altitude limitations a shorter version of the rocket was constructed, allowing us to retain aerodynamic stability using a less powerful rocket motor. We were still able to launch Florence to a little under half the height we would be aiming for in the US, providing critical insight into our system performance. A recovery failure during the first test launch caused moderate (but reparable) damage to a section of the air frame; our second test launch was entirely nominal.
 
-Images of Florence test launches
+<div class="row">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/flo_launch_wide.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/flo_launch_pad.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Stills of Florence at our two test launches
+</div>
 
 Florence was launched in the 2024 Spaceport America Cup. Our design was very well recieved by judges and competition officials. We had a successful launch, reaching an apogee just 0.73% off our target 30'000 ft altitude. We scored 235 out of a possible 240 points for design and build quality, and our outstanding flight performance landed us 4th place overall (out of 152 teams), and 2nd place in our category. We additionally came 3rd in the payload challenge, for our scientific payload investigating the effects of vibration on bacterial health, through the use of Raman spectroscopy. A highlight of the competition, as always, was travelling to the beautiful New Mexico, and experiencing the wonderful culture, hospitality, and landscapes there. 
 

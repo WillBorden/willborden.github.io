@@ -47,6 +47,8 @@ Images of Hermes on rockets.
 
 For Hermes' first appearance at the Spaceport America Cup in 2023, it was chosen to be presented as a podium presentation. All competing teams must submit an extended abstract on an area of their work they are proud of, and Hermes was selected as ARES' most exciting project of the year. This abstract was selected for presentation, and I had the opportunity to deliver a talk on my process designing and implementing the system. The talk was very well recieved; I had so many questions from team's wanting to build their own similar systems that the organisers had to cut off the presentation during question time - I spent the better part of an hour sharing information to other university teams outside the presentation hall. 
 
+Image of me presenting.
+
 Since its creation, Hermes has flown successfully on every major rocket ARES has built. It is the team's workhorse for data collection and telemetry, and is responsible for controlling air brakes systems and interfacing with ARES' IOT infrastructure. I learned a lot about embedded systems design and programming in particular, which I have since been able to apply to many additional projects. I'm very proud of Hermes, and am glad to have been able to create such a useful and reliable tool for ARES endeavours. 
 
 
