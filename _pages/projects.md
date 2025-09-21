@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Rocketry & Space, Music, Misc]
+display_categories: [Rocketry & Space, Music & Misc]
 horizontal: false
 ---
 

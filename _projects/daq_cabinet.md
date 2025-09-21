@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hyrbid engine DAQ cabinet
+title: Hybrid engine DAQ cabinet
 description: Data acquisition and control for a hybrid rocket engine
 img: assets/img/daq_car_park.jpg
 importance: 4
@@ -33,7 +33,7 @@ This is routed to a ground station which displays telemetry and allows manual co
     </div>
 </div>
 <div class="caption">
-    Me finalising the wiring (left), and the cabinet being used for valve characterisation (right)
+    Me finalising the wiring (right), and the cabinet being used for valve characterisation (left)
 </div>
 
 This project was one of my first times working with industrial control cabinets. It was a joy to see how easily interconnectable everything is, its a far cry from the integration issues of large PCB designs. It was nevertheless a challenging project, mainly due to the importance of having robust, reliable control of rocket engines. Designing the system required complex failure mode analysis to determine exactly what the behaviour of the system should be in every nominal and off-nominal case. The cabinet implements many safety features and interrupts to ensure no personnel are in danger during operations. 

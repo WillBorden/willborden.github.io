@@ -33,7 +33,7 @@ Hermes is still ARES' primary student-designed flight computer, almost 3 years a
     Hermes flight computer, front and back. The board pictured flew on ARES' 2023 competition rocket, Deimos
 </div>
 
-I began designing flight computers as soon as I joined ARES, in my first few weeks of university. I scounged together some breakout boards I found lying around, and put together my first few iterations of my designs. I remember vividly conducting my first tests of these boards by standing in the middle of the University of Melbourne's South Lawn, and throwing the boards as high as I could in the air to test that the state logic was working well. 
+I began designing flight computers as soon as I joined ARES, in my first few weeks of university. I scounged together some breakout boards I found lying around, and put together my first few iterations of my designs. I remember vividly conducting my first tests of these boards by standing in the middle of the University of Melbourne's South Lawn, and throwing the computers as high as I could in the air to test that the state logic was working well. 
 
 Images of early computers.
 
@@ -44,6 +44,8 @@ I chose to work with the STM32 family of microcontrollers, a first foray for me.
 I wrote all the firmware from scratch, including the peripheral drivers and the rocket's Kalman filter. It initially used a simple state machine in conjunction with DMA to handle events, but has since been overhauled to run on a custom RTOS. The board has even been used to run neural networks, for lightweight air brake look-up table compression.
 
 Images of Hermes on rockets.
+
+For Hermes' first appearance at the Spaceport America Cup in 2023, it was chosen to be presented as a podium presentation. All competing teams must submit an extended abstract on an area of their work they are proud of, and Hermes was selected as ARES' most exciting project of the year. This abstract was selected for presentation, and I had the opportunity to deliver a talk on my process designing and implementing the system. The talk was very well recieved; I had so many questions from team's wanting to build their own similar systems that the organisers had to cut off the presentation during question time - I spent the better part of an hour sharing information to other university teams outside the presentation hall. 
 
 Since its creation, Hermes has flown successfully on every major rocket ARES has built. It is the team's workhorse for data collection and telemetry, and is responsible for controlling air brakes systems and interfacing with ARES' IOT infrastructure. I learned a lot about embedded systems design and programming in particular, which I have since been able to apply to many additional projects. I'm very proud of Hermes, and am glad to have been able to create such a useful and reliable tool for ARES endeavours. 
 

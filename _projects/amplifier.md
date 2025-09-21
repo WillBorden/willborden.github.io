@@ -3,16 +3,11 @@ layout: page
 title: Fender Champ Amp replica
 description: with background image
 img: assets/img/amp_front.jpg
-importance: 2
-category: Music
+importance: 3
+category: Music & Misc
 ---
 
-This guitar amplifier is an exact replica of a 1957 Fender
-Champ 5F1. These amplifiers use vacuum tubes instead of
-transistors, and regularly retail for around $3000. Procuring my own parts I was able to replicate the functionality
-and tone of the amplifier for under $250. Construction
-of this amplifier required working with high voltages and
-delicate vintage components.
+This guitar amplifier is an exact replica of a 1957 Fender Champ 5F1. These amplifiers use vacuum tubes instead of transistors, and regularly retail for around \$3000. Procuring my own parts I was able to replicate the functionality and tone of the amplifier for under \$250. Construction of this amplifier required working with high voltages and delicate vintage components.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -3,8 +3,8 @@ layout: page
 title: Eurorack Modular Synthesiser
 description: Modular synthesiser with a DIY VCO
 img: assets/img/rack.jpg
-importance: 1
-category: Music
+importance: 2
+category: Music & Misc
 ---
 
 My first PCB design project, pictured below, was a discrete analogue VCO for a eurorack-style modular synthesiser. I designed and constructed the PCB and front
@@ -24,7 +24,7 @@ and assembled by myself from kits, and featured a custom power supply and laser-
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rack.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

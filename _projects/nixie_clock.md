@@ -4,7 +4,7 @@ title: WiFi Nixie Tube Clock
 description: A WiFi-controlled clock using Soviet-era tech
 img: assets/img/nixie_final.jpg
 importance: 1
-category: Misc
+category: Music & Misc
 ---
 
 This WiFi-controlled clock uses a discontinued type of Soviet-era neon display (Nixie tubes) to show accurate time and
