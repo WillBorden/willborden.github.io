@@ -407,8 +407,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amplifier/";
-            },},{id: "projects-hyrbid-engine-daq-cabinet",
-          title: 'Hyrbid engine DAQ cabinet',
+            },},{id: "projects-hybrid-engine-daq-cabinet",
+          title: 'Hybrid engine DAQ cabinet',
           description: "Data acquisition and control for a hybrid rocket engine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/daq_cabinet/";
