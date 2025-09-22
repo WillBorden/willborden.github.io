@@ -23,10 +23,10 @@ Hermes is still ARES' primary student-designed flight computer, almost 3 years a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_front.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_front.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_back.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_back.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,17 @@ Hermes is still ARES' primary student-designed flight computer, almost 3 years a
 
 I began designing flight computers as soon as I joined ARES, in my first few weeks of university. I scounged together some breakout boards I found lying around, and put together my first few iterations of my designs. I remember vividly conducting my first tests of these boards by standing in the middle of the University of Melbourne's South Lawn, and throwing the computers as high as I could in the air to test that the state logic was working well. 
 
-Images of early computers.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/first_flight_computer.jpeg" title="first flight computer" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/second_fc.png" title="second flight computer" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    My first prototype flight computers, built in one of my first months of university. Both flew on various L2 rocket flights
+</div>
 
 Very quickly, I decided I needed to turn these boards into a proper integrated PCB. Commercial rocketry flight computers can cost upwards of $500 USD, and have limited functionality. My goal was to create something scalable, robust, and able to hold its own against any projects the team might throw at it in the future. 
 
