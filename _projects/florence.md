@@ -82,7 +82,50 @@ To verify system functionality and validate our simulations and CFD, Florence wa
 
 Florence was launched in the 2024 Spaceport America Cup. Our design was very well recieved by judges and competition officials. We had a successful launch, reaching an apogee just 0.73% off our target 30'000 ft altitude. We scored 235 out of a possible 240 points for design and build quality, and our outstanding flight performance landed us 4th place overall (out of 152 teams), and 2nd place in our category. We additionally came 3rd in the payload challenge, for our scientific payload investigating the effects of vibration on bacterial health, through the use of Raman spectroscopy. A highlight of the competition, as always, was travelling to the beautiful New Mexico, and experiencing the wonderful culture, hospitality, and landscapes there. 
 
-Collage of competition
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/post_recovery.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/team_photo.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/vla.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/house.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/rocket_in_desert.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/white_sands.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/team_in_car.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/judging.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/frr.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/airport.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sac_collage/me_at_judging.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Stills of Florence at our two test launches
+</div>
 
 Being Chief Engineer for Florence is by far one of the highlights of my time at the University of Melbourne. Leading the development of what remains one of Australia's highest performing collegiate rockets was an incredibly rewarding experience, even more so thanks to the incredible team of engineers I led. Florence set the direction of ARES' endeavours for the next few years; there's many exciting things to come. 
 
