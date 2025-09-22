@@ -29,7 +29,7 @@ This is routed to a ground station which displays telemetry and allows manual co
         {% include figure.liquid loading="eager" path="assets/img/daq_combustion.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/daq_wiring.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_wiring.jpg" title="example image" class="img-fluid rounded z-depth-1" style="transform: rotate(180deg)" %}
     </div>
 </div>
 <div class="caption">
