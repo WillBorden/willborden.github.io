@@ -69,10 +69,10 @@ Along with a desire for robustness came a desire for competitiveness. Our compet
 To verify system functionality and validate our simulations and CFD, Florence was test launched twice in Australia. Due to altitude limitations a shorter version of the rocket was constructed, allowing us to retain aerodynamic stability using a less powerful rocket motor. We were still able to launch Florence to a little under half the height we would be aiming for in the US, providing critical insight into our system performance. A recovery failure during the first test launch caused moderate (but reparable) damage to a section of the air frame; our second test launch was entirely nominal.
 
 <div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flo_launch_wide.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flo_launch_pad.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
@@ -102,13 +102,13 @@ Florence was launched in the 2024 Spaceport America Cup. Our design was very wel
     </div>
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sac_collage/white_sands.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sac_collage/team_in_car.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sac_collage/judging.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
@@ -124,7 +124,7 @@ Florence was launched in the 2024 Spaceport America Cup. Our design was very wel
     </div>
 </div>
 <div class="caption">
-    Stills of Florence at our two test launches
+    Collage of some of my favourite moments from SAC 2024
 </div>
 
 Being Chief Engineer for Florence is by far one of the highlights of my time at the University of Melbourne. Leading the development of what remains one of Australia's highest performing collegiate rockets was an incredibly rewarding experience, even more so thanks to the incredible team of engineers I led. Florence set the direction of ARES' endeavours for the next few years; there's many exciting things to come. 
