@@ -53,11 +53,24 @@ I chose to work with the STM32 family of microcontrollers, a first foray for me.
 
 I wrote all the firmware from scratch, including the peripheral drivers and the rocket's Kalman filter. It initially used a simple state machine in conjunction with DMA to handle events, but has since been overhauled to run on a custom RTOS. The board has even been used to run neural networks, for lightweight air brake look-up table compression.
 
-Images of Hermes on rockets.
+<div class="row">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hermes_deimos.jpg" title="Deimos avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hermes_florence.jpg" title="Florence avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hermes_lemaire.jpg" title="Lemaire avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Hermes proudly featuring on all ARES competition entries since its creation, Deimos, Florence, and Lemaire
+</div>
 
 For Hermes' first appearance at the Spaceport America Cup in 2023, it was chosen to be presented as a podium presentation. All competing teams must submit an extended abstract on an area of their work they are proud of, and Hermes was selected as ARES' most exciting project of the year. This abstract was selected for presentation, and I had the opportunity to deliver a talk on my process designing and implementing the system. The talk was very well recieved; I had so many questions from team's wanting to build their own similar systems that the organisers had to cut off the presentation during question time - I spent the better part of an hour sharing information to other university teams outside the presentation hall. 
-
-Image of me presenting.
 
 Since its creation, Hermes has flown successfully on every major rocket ARES has built. It is the team's workhorse for data collection and telemetry, and is responsible for controlling air brakes systems and interfacing with ARES' IOT infrastructure. I learned a lot about embedded systems design and programming in particular, which I have since been able to apply to many additional projects. I'm very proud of Hermes, and am glad to have been able to create such a useful and reliable tool for ARES endeavours. 
 
