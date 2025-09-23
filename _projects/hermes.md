@@ -55,15 +55,15 @@ I wrote all the firmware from scratch, including the peripheral drivers and the 
 
 <div class="row">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_deimos.jpg" title="Deimos avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_deimos.JPG" title="Deimos avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_florence.jpg" title="Florence avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_florence.JPG" title="Florence avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="row">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_lemaire.jpg" title="Lemaire avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_lemaire.JPG" title="Lemaire avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
