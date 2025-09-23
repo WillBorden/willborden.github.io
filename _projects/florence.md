@@ -56,7 +56,7 @@ Along with a desire for robustness came a desire for competitiveness. Our compet
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/air_brakes_adi.jpg" title="Air brakes being installed" class="img-fluid rounded fa-rotate-270 z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/air_brakes_adi.jpg" title="Air brakes being installed" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/air_brakes.jpg" title="Air brakes during testing" class="img-fluid rounded z-depth-1" zoomable=true%}
@@ -69,10 +69,10 @@ Along with a desire for robustness came a desire for competitiveness. Our compet
 To verify system functionality and validate our simulations and CFD, Florence was test launched twice in Australia. Due to altitude limitations a shorter version of the rocket was constructed, allowing us to retain aerodynamic stability using a less powerful rocket motor. We were still able to launch Florence to a little under half the height we would be aiming for in the US, providing critical insight into our system performance. A recovery failure during the first test launch caused moderate (but reparable) damage to a section of the air frame; our second test launch was entirely nominal.
 
 <div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flo_launch_wide.jpg" title="Florence test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flo_launch_pad.jpg" title="Florence test launch pad" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
