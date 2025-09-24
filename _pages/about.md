@@ -35,4 +35,4 @@ As a longstanding member of the University of Melbourne's rocketry team [ARES](h
 
 I'm an avid tinkerer, and love to take on personal electronics projects in my spare time. I've designed my own eurorack modular synthesizers, built nixe-tube based clocks, and am currently engineering an entirely custom GNSS reciever.
 
-Please check out the projects and cv tabs to learn more about my experience and interests, and please get in touch if you'd like to chat!
+Check out the projects and cv tabs to learn more about my experience and interests, and please get in touch if you'd like to chat!
