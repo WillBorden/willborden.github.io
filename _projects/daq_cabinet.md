@@ -13,7 +13,7 @@ The system is based around two LabJack DAQ units capable of reading from up to 7
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/daq_car_park.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_car_park.jpg" title="daq cabinet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,10 +21,18 @@ The system is based around two LabJack DAQ units capable of reading from up to 7
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/daq_combustion.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hot_fire_0.png" title="hot fire" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sucessful hot fire of ARES' sub-scale engine, the DAQ cabinet is just to the right of the image.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/daq_combustion.jpg" title="daq testing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/daq_wiring.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/daq_wiring.jpg" title="daq wiring" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
