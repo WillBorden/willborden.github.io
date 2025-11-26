@@ -11,7 +11,7 @@ This WiFi-controlled clock uses a discontinued type of Soviet-era neon display (
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nixie_final.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nixie_final.jpg" title="finished clock" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -19,10 +19,10 @@ This WiFi-controlled clock uses a discontinued type of Soviet-era neon display (
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nixie_front.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nixie_front.jpg" title="clock front" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nixie_back.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nixie_back.jpg" title="clock back" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
