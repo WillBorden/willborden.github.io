@@ -25,7 +25,7 @@ The system is based around two LabJack DAQ units capable of reading from up to 7
     </div>
 </div>
 <div class="caption">
-    Sucessful hot fire of ARES' sub-scale engine, the DAQ cabinet is just to the right of the image.
+    Sucessful hot fire of ARES' sub-scale engine, the DAQ cabinet is just off to the right of the image.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,3 +42,12 @@ The system is based around two LabJack DAQ units capable of reading from up to 7
 This project was one of my first times working with industrial control cabinets. It was a joy to see how easily interconnectable everything is, although care must still be taken to ensure sytem inter-compatibility and good design. It was a challenging project, mainly due to the importance of having robust, reliable control of rocket engines. Designing the system required complex failure mode analysis to determine exactly what the behaviour of the system should be in every nominal and off-nominal case. The cabinet implements many safety features and interrupts to ensure no personnel are in danger during operations. 
 
 The cabinet is currently being used to test ARES' sub-scale hybrid rocket engine, and will be re-used for testing of our upcoming full-scale engine. This full-scale engine will be flown on ARES' next competition rocket, competing in the 2027 International Rocket Engineering Competition. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/odyssey.png" title="odyssey side view" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Early render of Project Odyssey, ARES' first hybrid rocket
+</div>

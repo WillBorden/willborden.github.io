@@ -33,7 +33,7 @@ Hermes is still ARES' primary student-designed flight computer, almost 3 years a
     Hermes flight computer, front and back. The board pictured flew on ARES' 2023 competition rocket, Deimos
 </div>
 
-I began designing flight computers as soon as I joined ARES, in my first few weeks of university. I scounged together some breakout boards I found lying around, and put together my first few iterations of my designs. I remember vividly conducting my first tests of these boards by standing in the middle of the University of Melbourne's South Lawn, and throwing the computers as high as I could in the air to test that the state logic was working well. 
+I began designing flight computers as soon as I joined ARES, in my first few weeks of university. I scrounged together some breakout boards I found lying around, and put together my first few iterations of my designs. I remember vividly conducting my first tests of these boards by standing in the middle of the University of Melbourne's South Lawn, and throwing the computers as high as I could in the air to test that the state logic was working well. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +44,7 @@ I began designing flight computers as soon as I joined ARES, in my first few wee
     </div>
 </div>
 <div class="caption">
-    My first prototype flight computers, built in one of my first months of university. Both flew on various L2 rocket flights
+    My first prototype flight computers, built in my first months of university. Both flew on various L2 rocket flights
 </div>
 
 Very quickly, I decided I needed to turn these boards into a proper integrated PCB. Commercial rocketry flight computers can cost upwards of $500 USD, and have limited functionality. My goal was to create something scalable, robust, and able to hold its own against any projects the team might throw at it in the future. 
