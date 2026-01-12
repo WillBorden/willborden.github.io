@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fender Champ Amp replica
-description: with background image
+description: 
 img: assets/img/amp_front.jpg
 importance: 3
 category: Music & Misc
