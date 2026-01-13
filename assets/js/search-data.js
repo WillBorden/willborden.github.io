@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-fender-champ-amp-replica",
           title: 'Fender Champ Amp replica',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amplifier/";
             },},{id: "projects-hybrid-engine-daq-cabinet",
@@ -38,8 +38,8 @@ ninja.data = [{
           description: "ARES&#39; most ambitious and successful rocket",
           section: "Projects",handler: () => {
               window.location.href = "/projects/florence/";
-            },},{id: "projects-gnss-reciever",
-          title: 'GNSS reciever',
+            },},{id: "projects-gnss-receiver",
+          title: 'GNSS receiver',
           description: "Custom scratch-built GPS receiver",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gps/";
