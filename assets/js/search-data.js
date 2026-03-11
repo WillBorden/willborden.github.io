@@ -33,6 +33,11 @@ ninja.data = [{
           description: "Data acquisition and control for a hybrid rocket engine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/daq_cabinet/";
+            },},{id: "projects-roo-ver-thermal-control-unit",
+          title: 'Roo-ver Thermal Control Unit',
+          description: "Australian Space Agency Lunar rover thermal control",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/esperoko/";
             },},{id: "projects-project-florence",
           title: 'Project Florence',
           description: "ARES&#39; most ambitious and successful rocket",
@@ -53,6 +58,11 @@ ninja.data = [{
           description: "A WiFi-controlled clock using Soviet-era tech",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nixie_clock/";
+            },},{id: "projects-roo-ver-thermal-control-unit",
+          title: 'Roo-ver Thermal Control Unit',
+          description: "Australian Space Agency Lunar rover thermal control",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/roover/";
             },},{id: "projects-eurorack-modular-synthesiser",
           title: 'Eurorack Modular Synthesiser',
           description: "Modular synthesiser with a DIY VCO",
