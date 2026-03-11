@@ -3,7 +3,7 @@
     "name": "Will Borden",
     "label": "Electronics engineer",
     "email": "will.borden01@gmail.com",
-    "summary": "Space avionics engineer, undergraduate student at the University of Melbourne studying electronics engineering",
+    "summary": "Space avionics engineer, Masters of Electrical Engineering student at the University of Melbourne. Research assistant at Melbourne Space Laboratory, technical staff at UoM Creator Space",
     "location": {
       "city": "Melbourne",
       "countryCode": "AU",
@@ -12,6 +12,16 @@
   },
 
   "education": [
+    {
+      "institution": "The University of Melbourne",
+      "location": "Melbourne, Australia",
+      "url": "https://www.unimelb.edu.au/",
+      "area": "Electronics and Embedded Systems",
+      "studyType": "Masters of Electrical Engineering",
+      "startDate": "2026.03",
+      "endDate": "present",
+      "courses": ["Weighted average mark of 87.7/100"]
+    },
     {
       "institution": "The University of Melbourne",
       "location": "Melbourne, Australia",
@@ -41,7 +51,7 @@
       "url": "https://melbournespace.research.unimelb.edu.au/",
       "startDate": "2025-07-16",
       "endDate": "present",
-      "summary": "Designed and validated thermal control unit for an Australian Space Agency lunar rover, carrying a NASA payload to the southern lunar pole. Implemented an NVIDIA Jetson-based space-grade camera system, launching on a Gilmour Space satellite in June 2026. Designed and manufactured complex, EMI compliant PCBs for use with radiation-hardened electronic components. Conducted detailed failure mode analysis, simulations, and error budget analysis to ensure robustness to conditions on the lunar surface and in orbit. Designed unit tester for qualification, engineering, and flight hardware validation and development. Implemented register-level RTOS-based embedded software for thermal control unit."
+      "summary": "Designed thermal control unit for ASA lunar rover, carrying a NASA payload to the southern lunar pole. Implemented an NVIDIA Jetson-based satellite camera system, launching on a Gilmour Space bus in June 2026. Designed and manufactured complex, EMI compliant PCBs for use with radiation-hardened electronic components, including detailed failure mode analysis and error budget calculations for lunar and orbital environments. Developed software for Linux and embedded devices, including RTOS-based firmware, designed unit tester for EM, QM, and FM hardware validation."
     },
     {
       "name": "Esper Satellite Imagery",
@@ -49,7 +59,7 @@
       "url": "https://www.espersatellites.co/",
       "startDate": "2025-02-24",
       "endDate": "2025-07-15",
-      "summary": "Designed and validated space-grade on-board computer and power distribution system for hyperspectral Earth observation payload launching August 2026. Communicated with external space provider, managed interface control description documents, and conducted design reviews to ensure compliance. Used Atlassian project management suite to document work and organize requirements and timelines. Conducted extensive failure mode analysis of electrical systems. Designed and outsourced space-grade wiring harnesses and PCBs."
+      "summary": "Designed and validated space-grade on-board computer and power distribution system for hyperspectral Earth observation payload launching August 2026. Managed interface control documents and design reviews with external space providers to ensure compliance with mission requirements. Designed and outsourced space-grade wiring harnesses and PCBs; conducted extensive electrical failure mode analysis."
     },
     {
       "name": "ARES Rocketry Team",
