@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My curriculum vitae. You can download a PDF version through the button on the right.",
+          description: "My curriculum vitae. Download PDF through button on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -33,9 +33,14 @@ ninja.data = [{
           description: "Data acquisition and control for a hybrid rocket engine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/daq_cabinet/";
-            },},{id: "projects-roo-ver-thermal-control-unit",
-          title: 'Roo-ver Thermal Control Unit',
-          description: "Australian Space Agency Lunar rover thermal control",
+            },},{id: "projects-project-deimos",
+          title: 'Project Deimos',
+          description: "30,000 ft experimental sounding rocket",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deimos/";
+            },},{id: "projects-esperoko",
+          title: 'Esperoko',
+          description: "Next-generation space hyperspectral imaging sensor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/esperoko/";
             },},{id: "projects-project-florence",
