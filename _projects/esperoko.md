@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Roo-ver Thermal Control Unit
-description: Australian Space Agency Lunar rover thermal control
+title: Esperoko 
+description: Next-generation space hyperspectral imaging sensor
 img: assets/img/arrow-bus.jpg
 importance: 3
 category: Rocketry & Space
