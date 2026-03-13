@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a recent graduate of the University of Melbourne, having completed my Bachelor of Science with a major in electrical engineering systems, and a Diploma in Languages with a specialisation in French studies. I'm passionate about all things space and electronics.
+I am a first-year MEng student at the University of Melbourne, having completed my Bachelor of Science at UoM in 2025 with a major in electrical engineering systems, and a Diploma in Languages with a specialisation in French studies. I'm deeply passionate about all things space and electronics.
 
 I currently work at the [Melbourne Space Laboratory](https://melbournespace.research.unimelb.edu.au/), designing and testing the thermal control unit for Australia's upcoming lunar rover mission, the [Roo-ver](https://www.elo2.au/). This rover will be carrying a NASA payload to the lunar poles for scientific exploration. I'm additionally designing an AI-capable satellite camera system for LEO earth imaging and astronomy applications. I previously have worked as an electronics engineer at [Esper Satellite Imagery](https://www.espersatellites.co/), where I was responsible for design, testing, and assembly of electrical systems onboard a hyperspectral imaging LEO payload, including the payload's onboard computer and wiring harness. 
 
