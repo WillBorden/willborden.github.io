@@ -3,7 +3,7 @@ layout: page
 title: Roo-ver Thermal Control Unit
 description: Australian Space Agency Lunar rover thermal control
 img: assets/img/roover.jpeg
-importance: 3
+importance: 4
 category: Rocketry & Space
 ---
 

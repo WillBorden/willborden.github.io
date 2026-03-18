@@ -3,7 +3,7 @@ layout: page
 title: Esperoko 
 description: Next-generation space hyperspectral imaging sensor
 img: assets/img/arrow-bus.jpg
-importance: 3
+importance: 5
 category: Rocketry & Space
 ---
 
