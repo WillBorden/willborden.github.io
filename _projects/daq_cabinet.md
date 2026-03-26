@@ -41,7 +41,7 @@ The system is based around two LabJack DAQ units capable of reading from up to 7
 
 This project was one of my first times working with industrial control cabinets. It was a joy to see how easily interconnectable everything is, although care must still be taken to ensure sytem inter-compatibility and good design. It was a challenging project, mainly due to the importance of having robust, reliable control of rocket engines. Designing the system required complex failure mode analysis to determine exactly what the behaviour of the system should be in every nominal and off-nominal case. The cabinet implements many safety features and interrupts to ensure no personnel are in danger during operations. 
 
-The cabinet is currently being used to test ARES' sub-scale hybrid rocket engine, and will be re-used for testing of our upcoming full-scale engine. This full-scale engine will be flown on ARES' next competition rocket, competing in the 2027 International Rocket Engineering Competition. 
+The cabinet is currently being used to test ARES' sub-scale hybrid rocket engine, and will be re-used for testing of our upcoming full-scale engine. This full-scale engine will be flown on ARES' next competition rocket [Odyssey](/_projects/odyssey.md), competing in the 2026 Australian Universities Rocket Competition and the 2027 International Rocket Engineering Competition. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

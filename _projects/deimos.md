@@ -20,27 +20,21 @@ Project Deimos (launched in June 2023) was ARES' first 30,000 ft sounding rocket
 
 The transition from Project Phobos to Project Deimos was significant. Deimos was launching on a Cesaroni N5800 solid rocket motor, nicknamed the 'rocket killer' due to its crazy acceleration profile. Our rocket would be subjected to 26g of acceleration for 3.5 seconds, massively higher than our past projects. The avionics for Phobos had been lacking, contructed out of plywood and completely noncompliant with our competition wiring standards. This changed for Deimos, I moved the team towards a custom-designed 3D printed SLS nylon avionics bay, which was impressively strong. All wiring was carefully reviewed and planned and passed all safety inspections our judges could throw at it. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hermes_deimos.JPG" title="Deimos avionics bay" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-<div class="caption">
-    Deimos avionics bay, featuring my flight computer Hermes.
-</div>
-
 We test launched Deimos in May 2023, reaching an apogee of 7,000 ft. We fell short of our target by a few thousand feet due to a manufacturing defect that caused our nose cone to act more like a bucket than a sleek aerodynamic surface; despite this the system operated nominally and all our avionincs worked correctly.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/test_deimos.jpeg" title="Deimos test launch" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/hermes_deimos.JPG" title="Deimos avionics bay" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/test_deimos.jpeg" title="Deimos test launch" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Deimos test launch, May 2023
+    Deimos' avionics bay (left) and test launch (right)
 </div>
 
-Despite the promising test launch results, Deimos was an ill-fated project. We took Deimos to New Mexico, USA to compete in the Spaceport America Cup - my first time at the competition and my first time in the US. Deimos was incredibly well received by judges and competitors alike, we were even pulled aside during an inspection as the head judge had been told that our avionics were exceptional, and he wanted to have a look. I additionally had the chance to present on my flight computer Hermes in a podium presentation. Deimos placed 8th in the competition for quality of its design and build. 
+Despite the promising test launch results, Deimos was an ill-fated project. We took Deimos to New Mexico, USA to compete in the Spaceport America Cup - my first time at the competition and my first time in the US. Deimos was incredibly well received by judges and competitors alike, we were even pulled aside during an inspection as the head judge had been told that our avionics were exceptional, and he wanted to have a look. I additionally had the chance to present on my flight computer [Hermes](/_projects/hermes.md) in a podium presentation. Deimos placed 8th in the competition for quality of its design and build. 
 
 Unfortunately, Deimos suffered an anomaly during flight that caused it to disintegrate 2.81 seconds after launch. Its still not entirely clear what caused this to happen, most people either say fin flutter, bending moments, or strange dynamic instability. Deimos tipped sideways going twice the speed of sound, causing its airframe to break apart into multiple pieces. Our onboard accelerometers saturated at 200g peak acceleration, with the actual acceleration likely being much higher, far more than anything we could have designed the system to withstand. Whilst the flight wasn't successful, I am proud to be able to say that when we opened the avionics bay post flight, every single system was powered on and working - not a single wire disconnected and not a single board stopped working, a real testament to my team's engineering. 
 
