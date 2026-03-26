@@ -63,6 +63,11 @@ ninja.data = [{
           description: "A WiFi-controlled clock using Soviet-era tech",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nixie_clock/";
+            },},{id: "projects-project-odyssey",
+          title: 'Project Odyssey',
+          description: "Australian Space Agency Lunar rover thermal control",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/odyssey/";
             },},{id: "projects-roo-ver-thermal-control-unit",
           title: 'Roo-ver Thermal Control Unit',
           description: "Australian Space Agency Lunar rover thermal control",
