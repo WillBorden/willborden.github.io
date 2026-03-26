@@ -65,7 +65,7 @@ ninja.data = [{
               window.location.href = "/projects/nixie_clock/";
             },},{id: "projects-project-odyssey",
           title: 'Project Odyssey',
-          description: "Australian Space Agency Lunar rover thermal control",
+          description: "Avanced hybrid sounding rocket",
           section: "Projects",handler: () => {
               window.location.href = "/projects/odyssey/";
             },},{id: "projects-roo-ver-thermal-control-unit",
