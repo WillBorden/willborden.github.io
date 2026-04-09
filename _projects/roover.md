@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roo-ver Thermal Control Unit
-description: Australian Space Agency Lunar rover thermal control
+description: Rad-hard thermal control system for NASA-payload Australian Space Agency lunar rover, launching 2030.
 img: assets/img/roover.jpeg
 importance: 4
 category: Rocketry & Space

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hybrid engine DAQ cabinet
-description: Data acquisition and control for a hybrid rocket engine
+description: Data acquisition and control for 5 kN student-built hybrid rocket engine
 img: assets/img/daq_car_park.jpg
 importance: 4
 category: Rocketry & Space

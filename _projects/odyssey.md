@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Odyssey
-description: Avanced hybrid sounding rocket
+description: Lead systems engineer for ARES' first hybrid sounding rocket - 5 kN hybrid engine with air brakes, side hatch recovery; competing at AURC26 and IREC27
 img: assets/img/hot_fire_0.png
 importance: 3
 category: Rocketry & Space

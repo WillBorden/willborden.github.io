@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Florence
-description: ARES' most ambitious and successful rocket
+description: Chief engineer for ARES' most successful rocket. Flew to 30,000 ft within 0.73% - 4th place finish of 152 teams
 img: assets/img/flo_desert.jpg
 importance: 1
 category: Rocketry & Space

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Esperoko 
-description: Next-generation space hyperspectral imaging sensor
+description: OBC, PDN, and harness for next-generation space hyperspectral imaging sensor at Esper Satellite Imagery
 img: assets/img/arrow-bus.jpg
 importance: 5
 category: Rocketry & Space

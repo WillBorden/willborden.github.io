@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Deimos 
-description: 30,000 ft experimental sounding rocket
+description: Avionics lead for 30,000 ft experimental sounding rocket
 img: assets/img/deimos.png
 importance: 6
 category: Rocketry & Space
