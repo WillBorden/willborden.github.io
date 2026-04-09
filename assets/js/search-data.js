@@ -30,32 +30,32 @@ ninja.data = [{
               window.location.href = "/projects/amplifier/";
             },},{id: "projects-hybrid-engine-daq-cabinet",
           title: 'Hybrid engine DAQ cabinet',
-          description: "Data acquisition and control for a hybrid rocket engine",
+          description: "Data acquisition and control for 5 kN student-built hybrid rocket engine",
           section: "Projects",handler: () => {
               window.location.href = "/projects/daq_cabinet/";
             },},{id: "projects-project-deimos",
           title: 'Project Deimos',
-          description: "30,000 ft experimental sounding rocket",
+          description: "Avionics lead for 30,000 ft experimental sounding rocket",
           section: "Projects",handler: () => {
               window.location.href = "/projects/deimos/";
             },},{id: "projects-esperoko",
           title: 'Esperoko',
-          description: "Next-generation space hyperspectral imaging sensor",
+          description: "OBC, PDN, and harness for next-generation space hyperspectral imaging sensor at Esper Satellite Imagery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/esperoko/";
             },},{id: "projects-project-florence",
           title: 'Project Florence',
-          description: "ARES&#39; most ambitious and successful rocket",
+          description: "Chief engineer for ARES&#39; most successful rocket. Flew to 30,000 ft within 0.73% - 4th place finish of 152 teams",
           section: "Projects",handler: () => {
               window.location.href = "/projects/florence/";
             },},{id: "projects-gnss-receiver",
           title: 'GNSS receiver',
-          description: "Custom scratch-built GPS receiver",
+          description: "Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with ACG",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gps/";
             },},{id: "projects-project-hermes",
           title: 'Project Hermes',
-          description: "A robust and scalable rocket flight computer",
+          description: "Solo project to build sounding rocket flight computer for active control, chute deployment, telemetry, tracking; used by ARES on all rockets for 3+ years",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hermes/";
             },},{id: "projects-wifi-nixie-tube-clock",
@@ -65,12 +65,12 @@ ninja.data = [{
               window.location.href = "/projects/nixie_clock/";
             },},{id: "projects-project-odyssey",
           title: 'Project Odyssey',
-          description: "Avanced hybrid sounding rocket",
+          description: "Lead systems engineer for ARES&#39; first hybrid sounding rocket - 5 kN hybrid engine with air brakes, side hatch recovery; competing at AURC26 and IREC27",
           section: "Projects",handler: () => {
               window.location.href = "/projects/odyssey/";
             },},{id: "projects-roo-ver-thermal-control-unit",
           title: 'Roo-ver Thermal Control Unit',
-          description: "Australian Space Agency Lunar rover thermal control",
+          description: "Rad-hard thermal control system for NASA-payload Australian Space Agency lunar rover, launching 2030.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/roover/";
             },},{id: "projects-eurorack-modular-synthesiser",
