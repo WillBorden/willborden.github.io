@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GNSS receiver
-description: Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with ACG
+description: Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with AGC
 img: assets/img/new_front_end.jpeg
 importance: 3
 category: Rocketry & Space
