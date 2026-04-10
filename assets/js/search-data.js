@@ -50,7 +50,7 @@ ninja.data = [{
               window.location.href = "/projects/florence/";
             },},{id: "projects-gnss-receiver",
           title: 'GNSS receiver',
-          description: "Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with ACG",
+          description: "Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with AGC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gps/";
             },},{id: "projects-project-hermes",
@@ -65,7 +65,7 @@ ninja.data = [{
               window.location.href = "/projects/nixie_clock/";
             },},{id: "projects-project-odyssey",
           title: 'Project Odyssey',
-          description: "Lead systems engineer for ARES&#39; first hybrid sounding rocket - 5 kN hybrid engine with air brakes, side hatch recovery; competing at AURC26 and IREC27",
+          description: "Lead systems engineer for ARES&#39; first hybrid sounding rocket - competing at AURC26 and IREC27",
           section: "Projects",handler: () => {
               window.location.href = "/projects/odyssey/";
             },},{id: "projects-roo-ver-thermal-control-unit",
