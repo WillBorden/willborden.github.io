@@ -17,7 +17,7 @@ My end goal with this project is to design a fully self-contained receiver, whic
     </div>
 </div>
 <div class="caption">
-    Third revision RF analogue front-end.
+    Third revision RF analogue front end.
 </div>
 
 The architecture of a GPS front end is relatively simple, and doesn't differ much from other downconverting RF receivers. Its main challenges lie in the fragility of the signals themselves; GPS signals are so weak that they are very easily drowned out by losses or interference. The architecture shown below is a superheterodyne receiver, where the incoming RF signal is downconverted to an intermediate frequency (IF) through mixing it with a local oscillator. 
@@ -32,7 +32,7 @@ The 'ADC' is only an ADC in that it converts an analogue signal to a digital one
     </div>
 </div>
 <div class="caption">
-    Third revision RF analogue front-end.
+    Front end block diagram.
 </div>
 
 As I mentioned above, 7 hardware revisions total were required to get this system to work - 3 local oscillator boards and 4 front end boards. Much of the early failures reflected my own lack of knowledge on RF hardware design, which improved greatly with each new board. Here is a brief summary of the issues encountered with each board:
