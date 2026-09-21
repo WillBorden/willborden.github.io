@@ -50,7 +50,7 @@ ninja.data = [{
               window.location.href = "/projects/florence/";
             },},{id: "projects-gnss-receiver",
           title: 'GNSS receiver',
-          description: "Custom GPS L1 band reciever with microwave LO, downconvering RF front end, and balanced IF stage with AGC",
+          description: "Custom GPS L1 band reciever with microwave LO, downconvering RF front end, IF stage with 1-bit digitisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gps/";
             },},{id: "projects-project-hermes",
