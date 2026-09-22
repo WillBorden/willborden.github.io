@@ -3,7 +3,7 @@ layout: page
 title: Project Hermes
 description: Solo project to build sounding rocket flight computer for active control, chute deployment, telemetry, tracking; used by ARES on all rockets for 3+ years
 img: assets/img/hermes_front_wide.jpg
-importance: 2
+importance: 3
 category: Rocketry & Space
 ---
 
